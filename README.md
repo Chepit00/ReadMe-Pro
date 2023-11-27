@@ -15,6 +15,7 @@
 ## Description
 
 The README PRO will allow users to create a readme file on the fly with a couple questions you'll have a readme file in no time.
+![Screenshot 2023-11-26 204915](https://github.com/Chepit00/ReadMe-Pro/assets/144062349/82152c29-344d-4866-ac19-ca12505a1148)
 
 ## Installation
 
